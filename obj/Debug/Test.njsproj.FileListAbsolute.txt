@@ -1,0 +1,4 @@
+C:\Users\knarendra\documents\visual studio 2013\Projects\Test\Test\obj\Debug\Test.njsprojResolveAssemblyReference.cache
+C:\Users\knarendra\documents\visual studio 2013\Projects\Test\Test\bin\Microsoft.NodejsTools.WebRole.dll
+D:\Cricket Share (htspc87)\Naren\Test\Test\obj\Debug\Test.njsprojResolveAssemblyReference.cache
+D:\Cricket Share (htspc87)\Naren\Test\Test\bin\Microsoft.NodejsTools.WebRole.dll
